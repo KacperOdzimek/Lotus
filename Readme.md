@@ -1,8 +1,8 @@
-🌸 Lotus
+# 🌸 Lotus
 
 Lotus is a very simple, header-only, templated asset manager for C++.
 
-**Features:**
+## Why use Lotus? 🚀
 
 * **Single header** (lotus.hpp)
 
@@ -14,7 +14,7 @@ Lotus is a very simple, header-only, templated asset manager for C++.
 
 * **Thread safe** – registry access guarded by std::mutex
 
-🛠️ API Overview
+## 🛠️ API Overview
 
 ```cpp
 // Create registry (provide load + unload callbacks)
